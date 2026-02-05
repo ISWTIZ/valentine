@@ -2,18 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Valentines: A Romantic Card Game with a Surprise Proposal",
+  title: "Wants to be my Valentine ?",
   description:
-    "Play a unique Valentine's card game. Complete the collection to reveal a romantic proposal!",
-  keywords: [
-    "Valentine's card game",
-    "romantic proposal game",
-    "photo card challenge",
-    "Valentine's Day surprise",
-    "couples game",
-    "valentine's day game",
-    "proposal game",
-  ],
+    "Resolve my games to reach my proposal !",
 };
 
 export default function RootLayout({
